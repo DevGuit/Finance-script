@@ -57,3 +57,5 @@ for sel_stock_name in rec.keys():
     fig.savefig('./charts/'+ name_stock +'.png')
     # plt.show()
 
+
+# %%
