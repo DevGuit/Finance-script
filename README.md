@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## 📉 Sample Output
 
-![Sample Graph](outputs/ADR on Baidu.png)  
+![Graph](outputs/ADR on Baidu.png)  
 *Sample earnings graph with point-of-entry marked*
 
 ## 🗂️ Directory Structure
