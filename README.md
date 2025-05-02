@@ -55,7 +55,12 @@ pip install -r requirements.txt
 ## 📉 Sample Output
 
 ![Graph](outputs/ADR_on_Baidu.png)  
+
 *Sample earnings graph with point-of-entry marked*
+
+![Graph](outputs/piechart.png)  
+
+*Sample portfolio distribution*
 
 ## 🗂️ Directory Structure
 
