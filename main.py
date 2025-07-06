@@ -17,6 +17,7 @@ labels = [f'{prod} (€{val:,.2f})' for prod, val in zip(df['Product'], df['Pric
 wedges, texts, autotexts = ax.pie(df['Price in EUR'], autopct='%1.1f%%', startangle=90, counterclock=False)
 ax.legend(wedges, labels, title="Products", loc="center left", bbox_to_anchor=(0.8, 0, 0.5, 1))
 plt.title('Portfolio assets')
+
 plt.axis('equal')  
-plt.savefig('./charts/piechart.png')
+plt.savefig('./outputs/piechart.png')
 # plt.show()
