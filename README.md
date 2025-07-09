@@ -54,11 +54,11 @@ pip install -r requirements.txt
 
 ## 📉 Sample Output
 
-![Graph](outputs/ADR_on_BAIDU.png)  
+![Graph](results/7_5_2025/ADR_on_BAIDU.png)  
 
 *Sample earnings graph with point-of-entry marked*
 
-![Graph](outputs/piechart.png)  
+![Graph](results/7_5_2025/piechart.png)  
 
 *Sample portfolio distribution*
 
